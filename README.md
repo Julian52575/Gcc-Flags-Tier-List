@@ -1,2 +1,4 @@
 # Gcc-Flags-Tier-List
-gcc -o my_lol lol.c -g
+You read that right. This is a tier list of ~~all~~ ~~most~~ some gcc flag
+
+This is a test `#0969DA`
