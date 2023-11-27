@@ -3,9 +3,9 @@
 + [Feature](#feature-section)
   + [-I](#-i)
 + [Debug](#debugging-section)
-  + [-g](-g)
-  + [-wall](-wall)
-  + [-wextra](-wextra)
+  + [-g](#-g)
+  + [-wall](#-wall)
+  + [-wextra](#-wextra)
      
 ###### Remember the work / usage / reasoning format Julian !
 # Feature Section
