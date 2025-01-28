@@ -4,7 +4,7 @@
 ## Notes 
 1. The flags are not ordered within tiers. 
 2. The flags might be ranked as a group like `includes` for `-iquote` and `-I`. 
-3. The flags are taken from https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html. 
+3. The flags are taken from https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html and https://linux.die.net/man/1/gcc. 
 
 ## Tiers :
 * [S Tier](https://github.com/Julian52575/Gcc-Flags-Tier-List/tree/S-Tier) Provides essential features, coding in C would be more cumbersome or almost impossible without them. 
